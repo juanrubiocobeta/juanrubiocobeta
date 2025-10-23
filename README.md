@@ -6,6 +6,8 @@ I specialize in data analysis and predictive modeling, with a passion for transf
 
 I'm passionate about data science, machine learning, and especially their use in finance, which fuels my drive to keep learning. These projects are the result: hands-on work I've done on my own to apply and master the theory as I go.
 
+While I've only recently begun showcasing my projects on GitHub, this portfolio is actively growing. I am committed to consistently adding new work as I learn and apply new skills.
+
 <br>
 
 ## Featured Projects
