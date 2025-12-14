@@ -1,6 +1,6 @@
 # Hi, my name is Juan Rubio Cobeta
 
-I'm a **Mathematics graduate** based in Zaragoza, Spain, currently applying my analytical skills at a local bank.
+I'm a **Mathematics graduate** based in Zaragoza, Spain, currently applying my analytical skills in the Risk Management Department at a local bank.
 
 I specialize in data analysis and predictive modeling, with a passion for transforming complex data into practical solutions using `Python`, `R`, and `SQL`. I'm always looking for new challenges where I can solve real-world problems.
 
