@@ -15,7 +15,7 @@ While I've only recently begun showcasing my projects on GitHub, this portfolio 
 * **Languages:** Python, R, SQL
 * **Data Science & Machine Learning:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
 * **Tools & Platforms:** Git, GitHub, Jupyter Notebooks.
-* **Databases:** MySQL, PostgreSQL.
+* **Databases:** MySQL, PostgreSQL, Excel, Power BI.
 
 <br>
 
